@@ -23,13 +23,15 @@ O repositório também inclui modelos de documentos (.docx) para automatização
 **Público-alvo**
 O curso é voltado para servidores do Tesouro Nacional e demais interessados em adquirir conhecimentos básicos de programação com Python, especialmente para uso em rotinas administrativas, análise de dados e automação de processos.
 
-Como utilizar
-Clone ou baixe os notebooks do repositório.
-Instale o [Anaconda](https://www.anaconda.com/download).
-Abra o terminal do Anaconda e digite `jupyter notebook`.
+**Como utilizar**
+- Clone ou baixe os notebooks do repositório.
+- Instale o [Anaconda](https://www.anaconda.com/download).
+- Abra o terminal do Anaconda e digite `jupyter notebook`.
+
 <img width="424" height="83" alt="image" src="https://github.com/user-attachments/assets/4018b86d-57d6-4d49-9710-d1d83dbbfa3f" />
-Navegue para o diretório em que os arquivos foram baixados.
-Execute os exemplos e resolva os exercícios propostos.
+
+- Navegue para o diretório em que os arquivos foram baixados.
+- Execute os exemplos e resolva os exercícios propostos.
 
 **Licença**
 Este material é distribuído para fins educacionais e pode ser adaptado conforme a necessidade dos participantes.
