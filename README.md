@@ -6,21 +6,6 @@ Este repositório contém o material didático do Curso Básico de Python desenv
 
 O curso está organizado em aulas temáticas, cada uma abordando tópicos essenciais para o aprendizado progressivo de Python:
 
-- Aula 0: Variáveis, Tipos e Operações
-- Aula 1: Programas Interativos
-- Aula 2: Condicionais
-- Aula 3: Estruturas de Dados
-- Aula 4: Laços de Repetição
-- Aula 5: Funções
-- Aula 6: Manipulação de Planilhas
-- Aula 7: Coletando Dados
-- Aula 8: Visualização de Dados
-- Aula 9: Automação de Relatórios
-
-Cada aula está disponível em formato de Jupyter Notebook (.ipynb), permitindo a execução interativa dos exemplos e exercícios.
-
-## Cronograma das aulas
-
 | Data | Assunto da aula | 
 | :--- | :--- | 
 | 19/08/2025 | Apresentação do curso | 
@@ -35,6 +20,8 @@ Cada aula está disponível em formato de Jupyter Notebook (.ipynb), permitindo 
 | 18/09/2025 | [Coletando dados](https://github.com/tesouro/curso_basico_python/blob/main/Aula%207%20-%20Coletando%20dados.ipynb) | 
 | 23/09/2025 | [Visualização de Dados](https://github.com/tesouro/curso_basico_python/blob/main/Aula%208%20-%20Visualiza%C3%A7%C3%A3o%20de%20Dados.ipynb) | 
 | 25/09/2025 | [Automação de relatório](https://github.com/tesouro/curso_basico_python/blob/main/Aula%209%20-%20Automa%C3%A7%C3%A3o%20de%20relat%C3%B3rios.ipynb) | 
+
+Cada aula está disponível em formato de Jupyter Notebook (.ipynb), permitindo a execução interativa dos exemplos e exercícios.
 
 ## Público-alvo
 
