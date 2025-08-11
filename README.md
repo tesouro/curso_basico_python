@@ -16,10 +16,10 @@ O curso está organizado em aulas temáticas, cada uma abordando tópicos essenc
 | 04/09/2025 | [Laços de repetição](https://github.com/tesouro/curso_basico_python/blob/main/Aula%204%20-%20La%C3%A7os%20de%20repeti%C3%A7%C3%A3o.ipynb) | 
 | 09/09/2025 | [Funções](https://github.com/tesouro/curso_basico_python/blob/main/Aula%205%20-%20Fun%C3%A7%C3%B5es.ipynb) | 
 | 11/09/2025 | Ponto de controle | 
-| 16/09/2025 | [Manipulação de planilha](https://github.com/tesouro/curso_basico_python/blob/main/Aula%206%20-%20Manipula%C3%A7%C3%A3o%20de%20planilhas.ipynb) |
-| 18/09/2025 | [Coletando dados](https://github.com/tesouro/curso_basico_python/blob/main/Aula%207%20-%20Coletando%20dados.ipynb) | 
-| 23/09/2025 | [Visualização de Dados](https://github.com/tesouro/curso_basico_python/blob/main/Aula%208%20-%20Visualiza%C3%A7%C3%A3o%20de%20Dados.ipynb) | 
-| 25/09/2025 | [Automação de relatório](https://github.com/tesouro/curso_basico_python/blob/main/Aula%209%20-%20Automa%C3%A7%C3%A3o%20de%20relat%C3%B3rios.ipynb) | 
+| 16/09/2025 | [Manipulação de planilhas](https://github.com/tesouro/curso_basico_python/blob/main/Aula%206%20-%20Manipula%C3%A7%C3%A3o%20de%20planilhas.ipynb) |
+| 18/09/2025 | [Coleta de dados](https://github.com/tesouro/curso_basico_python/blob/main/Aula%207%20-%20Coletando%20dados.ipynb) | 
+| 23/09/2025 | [Visualização de dados](https://github.com/tesouro/curso_basico_python/blob/main/Aula%208%20-%20Visualiza%C3%A7%C3%A3o%20de%20Dados.ipynb) | 
+| 25/09/2025 | [Automação de relatórios](https://github.com/tesouro/curso_basico_python/blob/main/Aula%209%20-%20Automa%C3%A7%C3%A3o%20de%20relat%C3%B3rios.ipynb) | 
 
 Cada aula está disponível em formato de Jupyter Notebook (.ipynb), permitindo a execução interativa dos exemplos e exercícios.
 
